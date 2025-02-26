@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashwin patil</h1>
-<h3 align="center">A passionate frontend developer and backend devloper from India</h3>
+<h3 align="center">A passionate frontend developer and backend devloper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinpatil777&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinpatil777" /> </p>
+<p align="left">  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinpatil777" alt="ashwinpatil777" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **React.js**
 
@@ -16,6 +16,13 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QhPDWVLNM0dVtDhivgEgYPSppPHkBnHj/view?usp=sharing](https://drive.google.com/file/d/1QhPDWVLNM0dVtDhivgEgYPSppPHkBnHj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/ashwin-patil-755918271/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24px" height="24px">
+    LinkedIn
+  </a>
+</p>
+
 <p align="left">
 </p>
 
@@ -24,4 +31,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinpatil777&show_icons=true&locale=en&layout=compact" alt="ashwinpatil777" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinpatil777&show_icons=true&locale=en" alt="ashwinpatil777" /></p>
